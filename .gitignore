@@ -1,0 +1,5 @@
+dataset/*
+videos/*
+*.model
+__pycache__
+.idea
