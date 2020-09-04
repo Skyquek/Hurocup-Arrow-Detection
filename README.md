@@ -24,8 +24,9 @@ or
 $ pip3 install -r requirements.txt
 ```
 
-+ Create a folder name ```dataset``` as parent directory and the respective dataset with the ```labelname``` as the 
-subdirectory name.
+Download the data from [Kaggle](https://www.kaggle.com/dataset/1f47541861bdd5136f9e22a94da35de8069ef5c0e31c3d026d65dd2e67b73962) and organize into:
+![](misc/directory.JPG)
+
 
 I would suggest the train.py script run in the GPU environment as its tend to save your time, or you can try to run the
 training at the Google Colab which provides free GPU.
