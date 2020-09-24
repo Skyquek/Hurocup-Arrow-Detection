@@ -42,4 +42,6 @@ toml==0.10.1
 urllib3==1.25.8
 wrapt==1.12.1
 tensorflow==2.1.0
+imutils
+sklearn
 
